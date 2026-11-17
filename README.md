@@ -1,4 +1,4 @@
-# 📊 Telco Customer Churn Prediction![Uploading download.png…]()
+# 📊 Telco Customer Churn Prediction
 
 <img width="1059" height="470" alt="download (1)"
    src="https://github.com/user-attachments/assets/011e7ebf-9123-4ef7-ba24-3ca226e3653c" />
