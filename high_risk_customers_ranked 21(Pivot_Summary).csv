@@ -1,0 +1,7 @@
+ Contract ,Action_Priority,Count of customerID,Sum of expected_monthly_revenue_at_risk
+Month-to-month,Immediate Outreach,112,"$8,921.71"
+,Retention Offer,256,"$14,713.70"
+Month-to-month Total,,368,"$23,635.41"
+One year,Immediate Outreach,2,$136.15
+One year Total,,2,$136.15
+Grand Total,,370,"$23,771.56"
